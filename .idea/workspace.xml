@@ -1,12 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="994657c4-bff2-432e-9a45-608e1017e80c" name="Default" comment="Added resources folder">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/test/resources/BowlingGameStory.story" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/test/java/BowlingGameTest.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/test/java/BowlingSteps.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/Game.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/misc.xml" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
+    <list default="true" id="994657c4-bff2-432e-9a45-608e1017e80c" name="Default" comment="working solution">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="JBehaveTutorial.iws" />
@@ -499,7 +494,11 @@
       <created>1412107501922</created>
       <updated>1412107501922</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="working solution">
+      <created>1412110993685</created>
+      <updated>1412110993685</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -548,7 +547,8 @@
     </option>
     <MESSAGE value="First Commit" />
     <MESSAGE value="Added resources folder" />
-    <option name="LAST_COMMIT_MESSAGE" value="Added resources folder" />
+    <MESSAGE value="working solution" />
+    <option name="LAST_COMMIT_MESSAGE" value="working solution" />
     <option name="REFORMAT_BEFORE_PROJECT_COMMIT" value="true" />
   </component>
   <component name="XDebuggerManager">
