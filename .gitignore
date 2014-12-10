@@ -1,5 +1,6 @@
 *.iml
 .idea/
+target/
 
 ## File-based project format:
 *.ipr
