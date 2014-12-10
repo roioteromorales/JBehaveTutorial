@@ -25,6 +25,9 @@
         <module name="JBehaveTutorial" />
       </profile>
     </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="JBehaveTutorial" target="1.7" />
+    </bytecodeTargetLevel>
   </component>
 </project>
 
